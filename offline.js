@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1603284151,
+	"version": 1603453076,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -23,6 +23,7 @@
 		"images/ponto2v-sheet0.png",
 		"images/ponto0t-sheet0.png",
 		"images/fio4-sheet0.png",
+		"images/fio5-sheet0.png",
 		"images/ponto2t-sheet0.png",
 		"images/ponto3t-sheet0.png",
 		"images/sprite_corescura-sheet0.png",
