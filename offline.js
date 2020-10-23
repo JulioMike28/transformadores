@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1603458809,
+	"version": 1603476608,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -93,6 +93,8 @@
 		"images/img2talta-sheet0.png",
 		"images/titulo2-sheet0.png",
 		"images/titulo3-sheet0.png",
+		"images/volti4-sheet0.png",
+		"images/fiop10-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

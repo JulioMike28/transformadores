@@ -22110,6 +22110,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Text.prototype.acts.SetText,
 	cr.plugins_.Button.prototype.acts.SetPos,
 	cr.system_object.prototype.cnds.Compare,
+	cr.plugins_.Mouse.prototype.cnds.OnObjectClicked,
 	cr.system_object.prototype.acts.AddVar,
 	cr.plugins_.TextBox.prototype.acts.SetPos,
 	cr.plugins_.TextBox.prototype.acts.ScrollToBottom,
